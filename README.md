@@ -2,6 +2,8 @@
 
 [<img src="https://f-droid.org/badge/get-it-on.png" alt="Get it on F-Droid" height="60">](https://f-droid.org/app/ohi.andre.consolelauncher)
 <a href="https://play.google.com/store/apps/details?id=ohi.andre.consolelauncher"><img src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png" height="60"></a>
+[![HitCount](http://hits.dwyl.io/Andre1299/TUI-ConsoleLauncher.svg)](http://hits.dwyl.io/Andre1299/TUI-ConsoleLauncher)
+
 
 Join the [Google+](https://plus.google.com/communities/103936578623101446195) Community to get help, suggest features or report bugs.
 
