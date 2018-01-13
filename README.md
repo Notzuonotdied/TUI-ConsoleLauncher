@@ -18,7 +18,7 @@ Join the [Google+](https://plus.google.com/communities/103936578623101446195) Co
 - [Gadget Hacks](https://android.gadgethacks.com/how-to/linux-style-launcher-turns-your-home-screen-into-command-prompt-0177326/)
 - [Android Community](https://androidcommunity.com/linux-cli-launcher-gives-you-old-school-command-line-feels-20170502/)
 
-### And some italian sites :D
+### And some Italian sites :D
 
 - [TuttoAndroid](https://www.tuttoandroid.net/android/con-linux-cli-launcher-utilizzerete-il-vostro-smartphone-con-la-linea-dei-comandi-473233/)
 - [lffl](https://www.lffl.org/2017/05/linux-cli-launcher.html)
