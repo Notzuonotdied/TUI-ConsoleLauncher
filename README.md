@@ -3,7 +3,9 @@
 [![HitCount](http://hits.dwyl.io/Andre1299/TUI-ConsoleLauncher.svg)](http://hits.dwyl.io/Andre1299/TUI-ConsoleLauncher)
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
 [![GPL Licence](https://badges.frapsoft.com/os/gpl/gpl.svg?v=103)](https://opensource.org/licenses/GPL-3.0/)
-https://img.shields.io/github/issues/badges/shields.svg
+[![GitHub last commit](https://img.shields.io/github/last-commit/google/skia.svg)](https://github.com/Andre1299/TUI-ConsoleLauncher)
+[![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/badges/shields.svg)](https://github.com/Andre1299/TUI-ConsoleLauncher)
+[![GitHub Release Date](https://img.shields.io/github/release-date/SubtitleEdit/subtitleedit.svg)](https://github.com/Andre1299/TUI-ConsoleLauncher)
 <br><br>
 [<img src="https://f-droid.org/badge/get-it-on.png" alt="Get it on F-Droid" height="60">](https://f-droid.org/app/ohi.andre.consolelauncher)
 <a href="https://play.google.com/store/apps/details?id=ohi.andre.consolelauncher"><img src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png" height="60"></a>
