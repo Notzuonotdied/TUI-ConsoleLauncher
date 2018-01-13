@@ -1,4 +1,4 @@
-## T-UI - Linux CLI Launcher
+## T-UI Linux CLI Launcher
 
 [![HitCount](http://hits.dwyl.io/Andre1299/TUI-ConsoleLauncher.svg)](http://hits.dwyl.io/Andre1299/TUI-ConsoleLauncher)
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
