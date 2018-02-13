@@ -9,7 +9,7 @@
 
 ## Useful links
 
-**@tui_launcher**       --> **[Twitter](https://twitter.com/tui_launcher)**<br>
+**@tui_launcher**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;--> **[Twitter](https://twitter.com/tui_launcher)**<br>
 **Official community**  --> **[Google+](https://plus.google.com/communities/103936578623101446195)**<br>
 **Official Group**      --> **[Telegram](https://t.me/tuilauncher)**<br>
 **Wiki**                --> **[GitHub](https://github.com/Andre1299/TUI-ConsoleLauncher/wiki)**<br>
