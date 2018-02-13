@@ -9,8 +9,9 @@
 
 ## Useful links
 
-![](https://pbs.twimg.com/profile_images/875087697177567232/Qfy0kRIP_400x400.jpg) --> [@tui_launcher](https://twitter.com/tui_launcher)
-https://plus.google.com/communities/103936578623101446195
+Twitter.com --> [@tui_launcher](https://twitter.com/tui_launcher)
+Google+     --> [Official community](https://plus.google.com/communities/103936578623101446195)
+Telegram    --> [Official group](https://t.me/tuilauncher)
 
 ## Mentions
 
