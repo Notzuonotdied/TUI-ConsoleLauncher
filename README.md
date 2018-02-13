@@ -9,11 +9,11 @@
 
 ## Useful links
 
-**@tui_launcher**&nbsp;&nbsp;&nbsp;--> **[Twitter](https://twitter.com/tui_launcher)**<br>
+**@tui_launcher**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;--> **[Twitter](https://twitter.com/tui_launcher)**<br>
 **Official community**&nbsp;&nbsp;--> **[Google+](https://plus.google.com/communities/103936578623101446195)**<br>
 **Official Group**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;--> **[Telegram](https://t.me/tuilauncher)**<br>
-**Wiki**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;--> **[GitHub](https://github.com/Andre1299/TUI-ConsoleLauncher/wiki)**<br>
-**FAQ**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;--> **[GitHub](https://github.com/Andre1299/TUI-ConsoleLauncher/wiki/FAQ)**
+**Wiki**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;--> **[GitHub](https://github.com/Andre1299/TUI-ConsoleLauncher/wiki)**<br>
+**FAQ**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;--> **[GitHub](https://github.com/Andre1299/TUI-ConsoleLauncher/wiki/FAQ)**
 
 ## Mentions
 
