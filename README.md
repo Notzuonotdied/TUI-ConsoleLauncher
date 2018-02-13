@@ -41,3 +41,6 @@ Join the [Google+](https://plus.google.com/communities/103936578623101446195) Co
 - [Tech Fire](https://www.youtube.com/watch?v=4iqzCnp2GU4&list=PLrQUyuFabC5MeCFCBZdJ5u6SgXcrCgF5B&index=18)
 - [DeviceCustomizer](https://youtu.be/sahFlOQA8fQ?t=1m25s)
 - [Diolinux](https://www.youtube.com/watch?v=5Q1gveqY4hg&t=197s)
+
+## Important
+I do not accept pull requests, and it's really better to send me an email rather than opening an issue on GitHub
