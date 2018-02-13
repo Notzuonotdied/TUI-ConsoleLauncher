@@ -49,5 +49,5 @@
 - **[Diolinux](https://www.youtube.com/watch?v=5Q1gveqY4hg&t=197s)**
 
 ## Important
-I **do not accept** pull requests, and it's really better to **send me an email** rather than opening an issue on GitHub, since I check my emails very ofter everyday.<br>
+I **do not accept** pull requests, and it's really better to **send me an email** rather than opening an issue on GitHub, since I check my emails very often everyday.<br>
 **[Email me](mailto:andreuzzi.francesco@gmail.com)**
